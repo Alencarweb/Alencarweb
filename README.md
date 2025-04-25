@@ -1,4 +1,4 @@
-# Sobre Mim
+# Sobre
  Desenvolvedor Web Full Stack, Cursando Engenharia de Software.
 
 ## Conecte-se comigo
