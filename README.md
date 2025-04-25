@@ -1,5 +1,5 @@
 # Sobre Mim
-Desde 2018 atuo como Desenvolvedor Web Full Stack, atuando em agências digitais e também como freelancer. Atualmente cursando Engenharia de Software, tenho uma abordagem focada em desempenho, segurança e inovação.
+ Desenvolvedor Web Full Stack, Cursando Engenharia de Software.
 
 ## Conecte-se comigo
 - GitHub: [Alencarweb](https://www.linkedin.com/in/alencar-souza/)
