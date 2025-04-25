@@ -6,7 +6,7 @@ Desde 2018 atuo como Desenvolvedor Web Full Stack, atuando em agências digitais
 - Portfólio: [Wartisan](https://wartisan.com.br/)
 - Dio: [Perfil](https://www.dio.me/users/alencarsouza2011)
 
-
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alencarweb&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 # 💻 Stack de Tecnologias e Ferramentas
 
 ## 🚀 Tecnologias
